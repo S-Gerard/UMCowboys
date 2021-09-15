@@ -17,5 +17,6 @@ def Michal():
 def shea():
     print("Shea Gerard")
     print("Junior")
+    print("Computer Science")
 
 Michal()
