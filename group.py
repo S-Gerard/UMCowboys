@@ -1,3 +1,5 @@
+print("UMCowboys group")
+print("Michal Kowalski and Shea Gerard")
 
 def Michal():
  
@@ -11,5 +13,8 @@ def Michal():
         print(m)
         print(h)
         print(c)
+     
+def shea():
+    print("Shea Gerard")
 
 Michal()
