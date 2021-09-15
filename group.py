@@ -19,5 +19,7 @@ def shea():
     print("Junior")
     print("Computer Science")
     print("Video games and art")
+    print("Lockwood, MT")
+    
 
 Michal()
