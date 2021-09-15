@@ -20,6 +20,7 @@ def shea():
     print("Computer Science")
     print("Video games and art")
     print("Lockwood, MT")
-    
+    print("I work as a graphic designer")
 
 Michal()
+shea()
